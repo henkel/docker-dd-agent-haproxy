@@ -3,4 +3,4 @@ init_config:
 instances:
   - username: username
     password: password
-    url: http://localhost/admin?stats
+    url: http://haproxy/admin?stats
