@@ -1,2 +1,2 @@
 FROM datadog/docker-dd-agent:latest-alpine
-ADD haproxy.yaml /etc/dd-agent/conf.d/haproxy.yaml
+ADD haproxy.yaml /opt/datadog-agent/agent/conf.d/haproxy.yaml
