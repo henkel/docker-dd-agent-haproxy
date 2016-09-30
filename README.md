@@ -2,8 +2,7 @@
 
 Enable monitoring of your HAproxy service within minutes.
  
-This Datadog Docker agent comes with built-in HAproxy integration. The agent expects a container link named "haproxy". The 
-HTTP stats page needs to be served at port 1936 with authentication "username:password".
+This Datadog Docker agent comes with built-in HAproxy integration. The agent expects a container link named "haproxy". The HTTP stats page needs to be served at port 1936 with authentication "username:password".
 
 # Example Docker Cloud Stackfile
 
